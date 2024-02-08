@@ -9,5 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         var iwiwiwiw = "인웅"
+        val a1 = "과제 미제출 _과제 어려워 ㅠㅠ_서정림"
+
     }
 }
