@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
 
         var iwiwiwiw = "인웅"
         val a1 = "과제 미제출 _과제 어려워 ㅠㅠ_서정림"
+        val a2 = "branch1에서 master로 이동"
 
     }
 }
